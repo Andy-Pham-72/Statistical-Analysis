@@ -1,4 +1,3 @@
-![output_48_0](https://user-images.githubusercontent.com/70767722/121785382-8659fd00-cb87-11eb-9899-d0faec68dff8.png)
 # Statistical Analysis :chart_with_upwards_trend:
 
 
@@ -445,7 +444,7 @@ plt.show()
 
 
     
-![png](output_17_0.png)
+![output_17_0](https://user-images.githubusercontent.com/70767722/121785424-bacdb900-cb87-11eb-94b0-38462de72509.png)
     
 
 
@@ -468,7 +467,7 @@ plt.show()
 
 
     
-![png](output_19_0.png)
+![output_19_0](https://user-images.githubusercontent.com/70767722/121785425-be614000-cb87-11eb-974b-457eb12a4f78.png)
     
 
 
@@ -491,7 +490,7 @@ plt.show()
 
 
     
-![png](output_21_0.png)
+![output_21_0](https://user-images.githubusercontent.com/70767722/121785429-c6b97b00-cb87-11eb-9f5c-2d27910c0847.png)
     
 
 
@@ -634,8 +633,7 @@ plt.show()
 ```
 
 
-    
-![png](output_35_0.png)
+![output_35_0](https://user-images.githubusercontent.com/70767722/121785443-d2a53d00-cb87-11eb-90f5-568c3ee5f217.png)
     
 
 
@@ -989,9 +987,7 @@ merge.plot(column = "suicide_rate", ax = ax, legend = True)
 
 
 
-    
-![png](output_41_1.png)
-    
+![output_41_1](https://user-images.githubusercontent.com/70767722/121785453-d933b480-cb87-11eb-8272-3e0a87bf07a4.png)
 
 
 From the graph, we can quickly see that the majority of the "high suicide rate" area is from the former Soviet Union locating in eastern Europe and Russia. Additionally, Japan and Korea are also in the high rate area.
@@ -1015,7 +1011,7 @@ plt.show()
 
 
     
-![png](output_43_0.png)
+![output_43_0](https://user-images.githubusercontent.com/70767722/121785454-dcc73b80-cb87-11eb-8be8-ed2743ab06c7.png)
     
 
 
@@ -1044,7 +1040,7 @@ plt.show()
 
 
     
-![png](output_45_0.png)
+![output_45_0](https://user-images.githubusercontent.com/70767722/121785457-dfc22c00-cb87-11eb-80e6-a11b39d9ed34.png)
     
 
 
@@ -1070,9 +1066,7 @@ plt.show()
 ```
 
 
-    
-![png](output_47_0.png)
-    
+![output_47_0](https://user-images.githubusercontent.com/70767722/121785461-e2bd1c80-cb87-11eb-850e-b99f3cbda197.png)
 
 
 
@@ -1096,8 +1090,7 @@ plt.show()
 ```
 
 
-    
-![png](output_48_0.png)
+![output_48_0](https://user-images.githubusercontent.com/70767722/121785463-e51f7680-cb87-11eb-9132-7f0b06387b77.png)
     
 
 
@@ -1130,8 +1123,7 @@ plt.show()
 ```
 
 
-    
-![png](output_50_0.png)
+![output_50_0](https://user-images.githubusercontent.com/70767722/121785465-e81a6700-cb87-11eb-891a-7af3e5b8b4a4.png)
     
 
 
@@ -1256,8 +1248,7 @@ plt.show()
 ```
 
 
-    
-![png](output_56_0.png)
+![output_56_0](https://user-images.githubusercontent.com/70767722/121785471-ed77b180-cb87-11eb-8eaf-a813523ee1d5.png)
     
 
 
@@ -1275,8 +1266,7 @@ plt.show()
 ```
 
 
-    
-![png](output_57_0.png)
+![output_57_0](https://user-images.githubusercontent.com/70767722/121785478-f23c6580-cb87-11eb-9fb8-159bb23078ff.png)
     
 
 
@@ -1297,7 +1287,7 @@ plt.show()
 
 
     
-![png](output_59_0.png)
+![output_59_0](https://user-images.githubusercontent.com/70767722/121785481-f5cfec80-cb87-11eb-8f30-bed38d04f00c.png)
     
 
 
@@ -1339,8 +1329,7 @@ plt.show()
 ```
 
 
-    
-![png](output_63_0.png)
+![output_63_0](https://user-images.githubusercontent.com/70767722/121785485-f8cadd00-cb87-11eb-85bf-3629905139ae.png)
     
 
 
