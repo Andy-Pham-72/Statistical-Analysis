@@ -1,3 +1,6 @@
+![lotto_649_-1](https://user-images.githubusercontent.com/70767722/123316133-83053080-d4fa-11eb-9c25-a961875c75d1.jpeg)
+
+
 # 6/49 Lottery Analysis 
 
 
