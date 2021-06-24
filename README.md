@@ -3,7 +3,10 @@
 
 This repository focused on statistical analysis and exploration used on various data sets for personal and professional projects.
 
-I will be showing the most up-to-date data analysis in this ReadMe.
+* [Suicide Rate](https://github.com/Andy-Pham-72/Statistical-Analysis/tree/master/Suicide_Rates)
+* [Lotter Analysis](https://github.com/Andy-Pham-72/Statistical-Analysis/tree/master/Lottery_Analysis)
+
+I will be showing one of the data analyses in this ReadMe.
 
 # Data Analysis with the Worldwide `Suicide Rates` dataset.
 
