@@ -30,7 +30,7 @@ This notebook contains Python code for calculating the confidence intervals with
 <br>
 ---
 
-**Please upvote if you found this helpful :-)**
+[LINK to the Kaggle URL](https://www.kaggle.com/asimislam/confidence-intervals-with-z-score-and-t-score)
 
 ####  Import Libraries
 
@@ -147,7 +147,7 @@ The concept of Confidence Interval was introduced by Polish mathematician and st
 | :--- | :---: | :---: | :---: |
 | **Confidence Interval** | $\mathsf{ \large \bar{x}}$ | $\mathsf{\large \pm z_{\alpha/2}}$ | $\mathsf{ \large \times \large \frac{s}{\sqrt{n}}}$ |
 
-![CLT.jpg](attachment:CLT.jpg)
+![download](https://user-images.githubusercontent.com/70767722/124335962-33fa7380-db6a-11eb-8399-ff705d2ad4cf.jpg)
 
 The confidence interval is expressed as a percentage (the most frequently quoted percentages are 90%, 95%, and 99%). The percentage reflects the **confidence level**.
 
@@ -231,8 +231,7 @@ print('standard error:\t\t{:.4f}'.format(sem))
 
 
     
-![png](output_8_0.png)
-    
+![output_8_0](https://user-images.githubusercontent.com/70767722/124335981-45dc1680-db6a-11eb-8943-4c155eda2ad9.png)    
 
 
     mean:			246.2640
@@ -385,8 +384,7 @@ print("{:.0%} of the total patients in the Heart Disease UCI dataset will have c
 
 
     
-![png](output_15_0.png)
-    
+![output_15_0](https://user-images.githubusercontent.com/70767722/124335987-4e345180-db6a-11eb-83d2-a4d9b1ee6a79.png)    
 
 
     Z-Statistics - CONCLUSION:
@@ -445,8 +443,7 @@ print('standard error:\t\t{:.4f}'.format(sem))
 
 
     
-![png](output_17_0.png)
-    
+![output_17_0](https://user-images.githubusercontent.com/70767722/124335993-542a3280-db6a-11eb-818a-6d4b0711d204.png)    
 
 
     mean:			251.5000
@@ -606,8 +603,7 @@ print("Based on a sample of {} patients, {:.0%} of the patients in the Heart Dis
 
 
     
-![png](output_24_0.png)
-    
+![output_24_0](https://user-images.githubusercontent.com/70767722/124335999-5b514080-db6a-11eb-8a29-ad10690b021a.png)    
 
 
     T-Statistics - CONCLUSION:
@@ -799,8 +795,7 @@ plt.show()
 
 
     
-![png](output_30_0.png)
-    
+![output_30_0](https://user-images.githubusercontent.com/70767722/124336006-60ae8b00-db6a-11eb-87c5-686738f64484.png)    
 
 
 **Boxplot Details:**
@@ -837,8 +832,8 @@ Measure of Central Tendency, or Central Tendency, is a central or typical value 
 
 ###  2.2.4 Skew
 **Skew** indicates whether the observations in a dataset are concentrated on one side, and is given by:
-![skew2.jpg](attachment:skew2.jpg)
 
+![download-1](https://user-images.githubusercontent.com/70767722/124336040-8176e080-db6a-11eb-9a1d-593dd34b7e2c.jpg)
 
 $$\mathsf{ \text{Skew:} \quad g = \frac{\frac{1}{n}\sum_{i=1}^n (x_i - \bar{x})^3}{(n - 1)\sigma^3}}$$
 
@@ -849,7 +844,9 @@ $$\mathsf{ \text{Skew:} \quad g = \frac{\frac{1}{n}\sum_{i=1}^n (x_i - \bar{x})^
 
 ###  2.2.5 Kurtosis
 **Kurtosis** is a measure of the fatness in the tails and tells us the extent to which the distribution is more or less outlier-prone (heavier or light-tailed) than the normal distribution.
-![kurtosis.jpg](attachment:kurtosis.jpg)
+
+![download-2](https://user-images.githubusercontent.com/70767722/124336048-89368500-db6a-11eb-9582-9e2574d1ec17.jpg)
+
 
 $$\mathsf{\text{Kurtosis:} \quad \beta_2 = E \left[ \left( \frac{X-\mu}{\sigma}\right)^4 \right]}$$
 
@@ -1331,12 +1328,13 @@ Before be dive into statistics, lets cover some basic topics:
 ##  3.1	Data, Information, Knowledge, Wisdom (DIKW)
 Information consists of data, but data is not necessarily information. Also, wisdom is knowledge, which in turn is information, which in turn is data, but, for example, knowledge is not necessarily wisdom. So, wisdom is a subset of knowledge, which is a subset of information, which is a subset of data.
 
-![dikw1.JPG](attachment:dikw1.JPG)<br>
+![download-3](https://user-images.githubusercontent.com/70767722/124336104-c8fd6c80-db6a-11eb-93ff-f0b1921d4d4f.jpg)<br>
+
 •	**Data** - information, for example, numbers, text, images, and sounds, in a form that is suitable for storage in or processing by a computer, used as a basis for making calculations or drawing conclusions<br>
 •	**Information** - data that has been organized and presented in a systematic fashion to clarify the underlying meaning<br>
 •	**Knowledge** - awareness or possession of information, facts, ideas, truths, or principles, understanding gained through experience or study<br>
 
-![dikw2.JPG](attachment:dikw2.JPG)<br>
+![download-4](https://user-images.githubusercontent.com/70767722/124336109-ce5ab700-db6a-11eb-940e-e70e9bb87409.jpg)<br>
 •	**Insight** - an understanding of relationships that sheds light on or helps solve a problem<br>
 •	**Wisdom** - knowledge and experience needed to make sensible decisions and judgments<br>
 •	**Conspiracy Theory** - a theory that rejects the standard explanation for an event and instead credits a covert group or organization with carrying out a secret plot<br>
@@ -1416,7 +1414,7 @@ $\mathsf{\qquad \text{Sample mean:}\qquad \large \bar{x} = \frac{\sum_{i=1}^n x_
 ##  3.4  Types of Data
 Data Types are an important concept of statistics, which needs to be understood, to correctly apply statistical measurements to your data and therefore to correctly conclude certain assumptions about it.
 
-![dataType.JPG](attachment:dataType.JPG)
+![download-5](https://user-images.githubusercontent.com/70767722/124336126-dc103c80-db6a-11eb-9b5e-0ca81c7007e1.jpg)<br>
 
 ###  3.4.1	Categorical 
 Categorical data represents characteristics, and are values or observations that can be sorted into groups or categories.  Bar charts, histograms and pie graphs are used to graph categorical data.
@@ -1461,7 +1459,7 @@ A probability distribution is a formula or a table used to assign probabilities 
 *  **discrete distribution** means that X can assume one of a countable (usually finite) number of values
 *  **continuous distribution** means that X can assume one of an infinite (uncountable) number of different values
 
-![distributions.JPG](attachment:distributions.JPG)
+![download-6](https://user-images.githubusercontent.com/70767722/124336143-e9c5c200-db6a-11eb-8c81-bfe995a2ee8f.jpg)<br>
 
 |  **DISCRETE DISTRIBUTIONS** 	|  **CONTINUOUS DISTRIBUTION** |
 | :---- | :---- |
