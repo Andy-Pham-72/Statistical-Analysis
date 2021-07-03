@@ -31,6 +31,7 @@ This notebook contains Python code for calculating the confidence intervals with
 ---
 
 [LINK to the Kaggle URL](https://www.kaggle.com/asimislam/confidence-intervals-with-z-score-and-t-score)
+[Data set](https://www.kaggle.com/ronitf/heart-disease-uci)
 
 ####  Import Libraries
 
