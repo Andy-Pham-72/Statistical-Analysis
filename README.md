@@ -6,6 +6,7 @@ This repository focused on statistical analysis and exploration used on various 
 * [Suicide Rate](https://github.com/Andy-Pham-72/Statistical-Analysis/tree/master/Suicide_Rates)
 * [Lottery Analysis](https://github.com/Andy-Pham-72/Statistical-Analysis/tree/master/Lottery_Analysis)
 * [Spotify data set with Decision Tree](https://github.com/Andy-Pham-72/Statistical-Analysis/tree/master/Decision%20Tree%20-%20Spotify%20dataset)
+* [Heart Disease UCI](https://github.com/Andy-Pham-72/Statistical-Analysis/tree/master/Confidence%20Intervals%20with%20z-score%20and%20t-score)
 
 I will be showing one of the data analyses in this ReadMe.
 
