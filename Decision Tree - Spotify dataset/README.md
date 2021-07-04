@@ -503,8 +503,7 @@ plt.legend(loc = "upper right")
 
 
     
-![png](output_13_1.png)
-    
+![output_13_1](https://user-images.githubusercontent.com/70767722/124399237-28cd5200-dce8-11eb-9844-18174e5b9456.png)    
 
 
 
@@ -534,8 +533,7 @@ plt.tight_layout()
 
 
     
-![png](output_14_0.png)
-    
+![output_14_0](https://user-images.githubusercontent.com/70767722/124399239-2cf96f80-dce8-11eb-89bb-08aa3b015eca.png)    
 
 
 - For the `danceability` feature, we can see a slight bias toward disliking song with lower density index and a slight preferece for songs with higher danceability index.
@@ -923,8 +921,7 @@ plt.show()
 
 
     
-![png](output_29_0.png)
-    
+![output_29_0](https://user-images.githubusercontent.com/70767722/124399244-3387e700-dce8-11eb-805c-2e85174f65be.png)    
 
 
 We will select `max_depth=5`. 
@@ -984,8 +981,7 @@ plt.show()
 
 
     
-![png](output_34_0.png)
-    
+![output_34_0](https://user-images.githubusercontent.com/70767722/124399248-37b40480-dce8-11eb-8c03-398a9ff97cdd.png)    
 
 
 `max_depth=5` again. 
@@ -1035,8 +1031,7 @@ for o in out:
 
 
     
-![png](output_38_0.png)
-    
+![output_38_0](https://user-images.githubusercontent.com/70767722/124399251-3a165e80-dce8-11eb-9569-84fca2725724.png)    
 
 
 This tree is straightforward and one of the advantages of the decision trees is they are interpretable. We can look at the process that the model has used to classify whether or not am user liked or disliked a particular song.
