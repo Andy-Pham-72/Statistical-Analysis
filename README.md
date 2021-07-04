@@ -5,6 +5,7 @@ This repository focused on statistical analysis and exploration used on various 
 
 * [Suicide Rate](https://github.com/Andy-Pham-72/Statistical-Analysis/tree/master/Suicide_Rates)
 * [Lotter Analysis](https://github.com/Andy-Pham-72/Statistical-Analysis/tree/master/Lottery_Analysis)
+* [Spotify data set with Decision Tree](https://github.com/Andy-Pham-72/Statistical-Analysis/tree/master/Decision%20Tree%20-%20Spotify%20dataset)
 
 I will be showing one of the data analyses in this ReadMe.
 
