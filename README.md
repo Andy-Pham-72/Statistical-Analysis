@@ -10,6 +10,8 @@ This repository focused on statistical analysis and exploration used on various 
 
 I will be showing one of the data analyses in this ReadMe.
 
+I also want to share a **[link](http://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/lecturenote01_MLsetup.html)** to the series of the most profound and intuitive lectures about Statistics and Machine Learning from Professor Weinberger of Cornell University. As a self-learner, I have been learning a lot from his instructional materials.
+
 # Data Analysis with the Worldwide `Suicide Rates` dataset.
 
 In this data analysis, I used the dataset from [Kaggle](https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016).
