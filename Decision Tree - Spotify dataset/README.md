@@ -1,4 +1,4 @@
-## Using Decision Tree with Spotify Dataset
+## Using Vanila Decision Tree model with Spotify Dataset
 
 A Decision Tree is an algorithm used for supervised learning problems such as classification or regression. A decision tree or a classification tree is a tree in which each internal (non-leaf) node is labeled with an input feature. Each leaf of the tree is labeled with a class or a probability distribution over the classes.
 
