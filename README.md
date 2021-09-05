@@ -1,7 +1,7 @@
 # Statistical Analysis :chart_with_upwards_trend:
 
 
-This repository focused on statistical analysis and exploration used on various data sets for personal and professional projects.
+This repository focuses on statistical analysis and the exploration used on various data sets for personal and professional projects.
 
 * [Suicide Rate](https://github.com/Andy-Pham-72/Statistical-Analysis/tree/master/Suicide_Rates)
 * [Lottery Analysis](https://github.com/Andy-Pham-72/Statistical-Analysis/tree/master/Lottery_Analysis)
